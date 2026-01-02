@@ -3,13 +3,13 @@ layout: page
 title: About
 ---
 
-I'm a Co-Founder and CEO of [Invariant Labs](https://invariantlabs.ai), where we make AI Agents secure.
-I'm also a PhD candidate, to defend my dissertation, in the [Secure, Reliable, and Intelligent Systems Lab](www.sri.inf.ethz.ch) at ETH Zurich in Switzerland.
+I'm a Research Engineer at [Snyk](https://snyk.io/) and formerly Co-Founder and CEO of [Invariant Labs](https://invariantlabs.ai), where I work on securing (and breaking) agentic AI.
+I hold a PhD from [SRI Lab](www.sri.inf.ethz.ch) at ETH Zurich in Switzerland.
 
 Furthermore I like photography, video games, books, movies and cooking.
 
 ### Publications
-My publications and further information can be found [on my personal site on the lab website](https://www.sri.inf.ethz.ch/people/marc).
+My publications and further information can be found [on google scholar](https://scholar.google.com/citations?user=N8sJ8yIAAAAJ&hl=en).
 
 
 ### Contact me
